@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarmaKami994
 - 👀 I’m interested in workin in the field of DevOps
-- 🌱 I’m currently learning all the DevOps Tools : Kubernetes,Docker,Terraform, Azure Cloud,
+- 🌱 I’m currently learning all the DevOps Tools : Kubernetes,Docker,Terraform, Azure Cloud, CI/CD Piplines etc.
 - 💞️ I’m looking to collaborate on Opensource Project where i bring in and improve my fundemental knowledge of Cloud Tools
 - 📫 How to reach me -> Github Chat function or hit me up 
 <!---
