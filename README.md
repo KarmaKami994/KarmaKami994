@@ -1,6 +1,4 @@
-Hello World, my name is Karim
-
-Passionate DevOpsler
+Hello World, my name is Karim, A Passionate DevOpsler
 
 I've been working in many different fields of IT but never felt like i could bring out my full potential until i started to go on the path of DevOps where i found myself having the most fun working.* <br />
 
