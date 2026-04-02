@@ -1,28 +1,73 @@
-Hello World, my name is Karim, A passionate DevOpsler
+# 👋 Karim Moutiq
 
-I've been working in many different fields of IT but never felt like i could bring out my full potential until i started to go on the path of DevOps where i found myself having the most fun working.* <br />
+Cloud Security & Solution Architect based in Zurich 🇨🇭  
 
-🌍  I'm based in Zurich* <br />
-🖥️  Have a look at my CV at [My Online CV](http://km-cv.info/)* <br />
-✉️  You can contact me at [karim.moutiq@gmail.com](mailto:karim.moutiq@gmail.com)* <br />
-🧠  I'm currently learning Terraform* <br />
-🤝  I'm open to collaborating on Beginner DevOps Projects* <br />
-⚡  I like the dark cause the light attracts bugs<br />
+I design and build **secure, scalable cloud environments** with a focus on  
+Azure, Identity, and Governance.
 
-### Skills
+---
 
-<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a></p>
+## 🧠 Focus
 
-### Badges
+- Cloud Security Architecture  
+- Identity & Access Management (Zero Trust)  
+- Data Governance & Compliance  
+- Infrastructure as Code & Automation  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/KarmaKami994"><img src="https://github-readme-stats.vercel.app/api?username=KarmaKami994&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KarmaKami994's GitHub stats" /></a>
+## ⚙️ Tech Stack
 
-<a href="http://www.github.com/KarmaKami994"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmaKami994&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Cloud & Platform**  
+Azure · Kubernetes · Docker · Azure Dev Box  
 
-<a href="https://github.com/KarmaKami994" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaKami994&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Security & Identity**  
+Entra ID · Conditional Access · MFA · Defender for Cloud · Sentinel · PKI  
 
-### Support Me
+**Infrastructure & Automation**  
+Bicep · Terraform · PowerShell · Azure CLI · Ansible  
 
-<a href="https://www.buymeacoffee.com/karimmoutiq"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+**Other**  
+Python · Flask · JavaScript · Grafana · Loki  
+
+---
+
+## 🏗️ Selected Projects
+
+### ☸️ Kubernetes Homelab
+High-availability Kubernetes cluster with GitOps and observability stack  
+(ArgoCD · Grafana · Loki)
+
+🔗 https://github.com/KarmaKami994/KM-
+
+---
+
+### 🌐 Digital CV
+Responsive portfolio application
+
+🔗 https://kamicorp-portfolio.onrender.com
+
+---
+
+### 🏠 Uccelli Society
+Website implementation and ongoing maintenance  
+
+🔗 https://uccelli-society.ch  
+
+---
+
+## 💼 Current Work
+
+Working on **security architecture, governance, and compliance**  
+in public sector environments.
+
+- Microsoft Purview (DLP, data classification, retention)  
+- PKI design & certificate lifecycle management  
+- Azure security & compliance (ISO 27001 aligned)  
+
+---
+
+## 📫 Contact
+
+📧 karim.moutiq@gmail.com  
+🔗 https://github.com/KarmaKami994
