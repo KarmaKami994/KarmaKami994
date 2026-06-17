@@ -1,4 +1,4 @@
-# 👋 Karim Moutiq
+# 👋 Karim
 
 Cloud Security & Solution Architect based in Zurich 🇨🇭  
 
