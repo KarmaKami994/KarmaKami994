@@ -1,73 +1,71 @@
 # 👋 Karim
 
-Cloud Security & Solution Architect based in Zurich 🇨🇭  
-
-I design and build **secure, scalable cloud environments** with a focus on  
-Azure, Identity, and Governance.
+Security Practitioner with a Cloud Architecture background, based in
+Zurich 🇨🇭
+I come from designing secure Azure environments at scale, and I'm now
+building hands-on depth across SOC operations, offensive security, and
+detection engineering, with my own infrastructure as the proving ground.
 
 ---
 
-## 🧠 Focus
+## 🧠 What Sets This Apart
 
-- Cloud Security Architecture  
-- Identity & Access Management (Zero Trust)  
-- Data Governance & Compliance  
-- Infrastructure as Code & Automation  
+Most security portfolios are tutorial walkthroughs. Mine runs on a real
+home server, a real registered domain, real Docker infrastructure I
+operate daily, and the debugging scars to prove it. Every project below
+includes what broke, why, and how it was fixed, not just the happy path.
+
+---
+
+## 🛡️ Security Homelab
+
+| Project | What it proves |
+|---------|-----------------|
+| 🔍 [elk-siem-lab](https://github.com/KarmaKami994/elk-siem-lab) | Built and operate a SIEM (ELK Stack) ingesting Windows & Linux logs |
+| 🐳 [docker-security-scanner](https://github.com/KarmaKami994/docker-security-scanner) | Python CIS Benchmark scanner + CI/CD security gate (Trivy, Gitleaks) |
+| 🛡️ [nginx-security-hardening](https://github.com/KarmaKami994/nginx-security-hardening) | Defense-in-depth HTTP hardening with measured before/after results |
+| 📋 [vulnerability-management-lab](https://github.com/KarmaKami994/vulnerability-management-lab) | Nessus scans against live infrastructure, real findings, real fixes |
+| 🎭 [cti-spacebears-report](https://github.com/KarmaKami994/cti-spacebears-report) | CTI report on an active ransomware group, full MITRE ATT&CK mapping |
+| 🎯 [dvwa-penetration-test-lab](https://github.com/KarmaKami994/dvwa-penetration-test-lab) | SQLi, command injection, XSS, privilege escalation, full pentest report |
+| 🔬 [atomic-redteam-detection-engineering](https://github.com/KarmaKami994/atomic-redteam-detection-engineering) | Atomic Red Team vs. own SIEM, detection gap found and closed |
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Cloud & Platform**  
-Azure · Kubernetes · Docker · Azure Dev Box  
+**Security Operations & Offensive Security**
+ELK Stack · Nessus · Nmap · Metasploit · Atomic Red Team · MITRE ATT&CK · Kali Linux
 
-**Security & Identity**  
-Entra ID · Conditional Access · MFA · Defender for Cloud · Sentinel · PKI  
+**Cloud & Platform** (professional background)
+Azure · Entra ID · Conditional Access · Defender for Cloud · Sentinel · PKI
 
-**Infrastructure & Automation**  
-Bicep · Terraform · PowerShell · Azure CLI · Ansible  
+**Infrastructure & Automation**
+Docker · Bicep · Terraform · PowerShell · Ansible
 
-**Other**  
-Python · Flask · JavaScript · Grafana · Loki  
-
----
-
-## 🏗️ Selected Projects
-
-### ☸️ Kubernetes Homelab
-High-availability Kubernetes cluster with GitOps and observability stack  
-(ArgoCD · Grafana · Loki)
-
-🔗 https://github.com/KarmaKami994/KM-
+**Other**
+Python · Flask · JavaScript · Grafana · Loki
 
 ---
 
-### 🌐 Digital CV
-Responsive portfolio application
+## 💼 Professional Background
 
-🔗 https://kamicorp-portfolio.onrender.com
-
----
-
-### 🏠 Uccelli Society
-Website implementation and ongoing maintenance  
-
-🔗 https://uccelli-society.ch  
+Cloud Security & Solution Architect, currently working on security
+architecture, governance, and compliance in public sector environments:
+Microsoft Purview (DLP, classification, retention), PKI design &
+certificate lifecycle management, Azure security & compliance
+(ISO 27001 aligned).
 
 ---
 
-## 💼 Current Work
+## ☁️ Other Projects
 
-Working on **security architecture, governance, and compliance**  
-in public sector environments.
-
-- Microsoft Purview (DLP, data classification, retention)  
-- PKI design & certificate lifecycle management  
-- Azure security & compliance (ISO 27001 aligned)  
+- ☸️ [Kubernetes Homelab](https://github.com/KarmaKami994/KM-) — HA cluster, GitOps, observability (ArgoCD, Grafana, Loki)
+- 🌐 [Digital CV](https://kamicorp-portfolio.onrender.com) — Responsive portfolio application
+- 🏠 [Uccelli Society](https://uccelli-society.ch) — Website implementation and maintenance
 
 ---
 
 ## 📫 Contact
 
-📧 karim.moutiq@gmail.com  
+📧 karim.moutiq@gmail.com
 🔗 https://github.com/KarmaKami994
